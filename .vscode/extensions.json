@@ -1,0 +1,43 @@
+{
+  "recommendations": [
+    // Core React + TypeScript DX
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "ms-vscode.vscode-typescript-next",
+
+    // Tailwind CSS
+    "bradlc.vscode-tailwindcss",
+
+    // Path intellisense
+    "christian-kohler.path-intellisense",
+    "christian-kohler.npm-intellisense",
+
+    // React / TSX helpers
+    "dsznajder.es7-react-js-snippets",
+    "burkeholland.simple-react-snippets",
+
+    // Git
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+
+    // UI & Productivity
+    "PKief.material-icon-theme",
+    "zhuangtongfa.material-theme",
+    "oderwat.indent-rainbow",
+    "usernamehw.errorlens",
+    "naumovs.color-highlight",
+
+    // Bracket pair + nav
+    "CoenraadS.bracket-pair-colorizer-2",
+    "aaron-bond.better-comments",
+
+    // Auto-rename tags in JSX
+    "formulahendry.auto-rename-tag",
+
+    // SVG preview
+    "jock.svg",
+
+    // Vite
+    "antfu.vite"
+  ]
+}
